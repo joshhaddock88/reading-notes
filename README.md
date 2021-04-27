@@ -5,6 +5,7 @@
 ## Code 201 Reading Notes
 ### Table of Contents
 1. *Introductory HTML & Javascript*
+
 **Asignments**
 - HTML
     - Introduction(pp.2-11)**Notes**:
