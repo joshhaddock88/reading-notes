@@ -6,9 +6,8 @@
 ### Table of Contents
 1. ***Introductory HTML & Javascript***
 
-**Asignments**
 - HTML
-    - [x] Introduction(pp.2-11)
+    - [ ] Introduction(pp.2-11)
     **Notes**:
     - [ ] HTML Chapter 1: "Structure" (pp. 12-39)
     **Notes**:
