@@ -8,19 +8,20 @@
 
 **Asignments**
 - HTML
-    - Introduction(pp.2-11)**Notes**:
-    - HTML Chapter 1: "Structure" (pp. 12-39)
+    - [] Introduction(pp.2-11)
     **Notes**:
-    - HTML Chapter 8: "Extra Markup" (pp. 176-199)
+    - [] HTML Chapter 1: "Structure" (pp. 12-39)
     **Notes**:
-    - HTML Chapter 17: "HTML5 Layout" (pp. 428-451)
+    - [] HTML Chapter 8: "Extra Markup" (pp. 176-199)
     **Notes**:
-    - HTML Chapter 18: "Process & Design" (pp. 452-475)
+    - [] HTML Chapter 17: "HTML5 Layout" (pp. 428-451)
+    **Notes**:
+    - [] HTML Chapter 18: "Process & Design" (pp. 452-475)
     **Notes**:
 - Javascript
-    - Introduction
+    - [] Introduction
     **Notes**:
-    - JS Chapter 1: "The ABC of Programming" (pp. 11-52)
+    - [] JS Chapter 1: "The ABC of Programming" (pp. 11-52)
     **Notes**:
 2. *HTML Text, CSS Introduction, & Basic Javascript*
 3. *HTML Lists, CSS Boxes, JS Control Flow*
