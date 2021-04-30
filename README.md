@@ -15,7 +15,7 @@
     - Javascript
         - [ ] Introduction
         - [ ] JS Chapter 1: "The ABC of Programming" (pp. 11-52)
-    [**Notes**](reading-notes/class-01.md)class
+    [**Notes**](reading-notes/class-01.md)
 2. ***HTML Text, CSS Introduction, & Basic Javascript***
 3. ***HTML Lists, CSS Boxes, JS Control Flow***
 4. ***HTML Links, CSS Layout, JS Functions***

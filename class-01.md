@@ -5,7 +5,7 @@ ISP: Internet Service Provier
 IP: Internet Protocol
 
 HTML pages are made up at "Elements" (characters or words that live inside brackets). They are made up of two tags, an opening and a closing.
-<p>            </p> <- an elements
+\<p\>            \</p\> <- an elements
 ^opening tag : ^ closing tage.
 Attributes tell us more about the contents of an elements.
 
@@ -26,7 +26,7 @@ To learn HTML you need to know what tags are available for use, what they do, an
 Chapter 8
 
 The DOCTYPE is no just HTML, post HTML5.
-<!-- this is how you make a comment in HTML -->
+&lt!-- this is how you make a comment in HTML -->
 **id**'s can be used to distinguish one element from all the others. It must be unique to each element and must begin with a char or _, but never a number.
 Id's are global attributes, because they can be used on any element.
 **Class** attributes can be used to lump several elements together.
