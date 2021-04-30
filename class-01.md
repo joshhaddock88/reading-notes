@@ -151,3 +151,67 @@ TO make HTML5 elements work in Internet Explorer 8(and other older version of IE
 
 ## Chapter 18
 
+To help figure out who your target audience is, invent fictional characters who might visit your site.
+Thinking about what they get ouf of it will influence content and design decisions.
+
+Once you understand who might be visiting your website determine "why" they're visiting. What are key motivations and specific goals.
+
+Find out what each of your imaginary visitors is hoping to acheive by visiting your sight. This won't hit every reason, but it can help locate early blindspots.
+
+Find out what information visitors need. Will visitors be familiar with the subject/brand? Will they be familiar with my product/service? What are common questions people ask about this particular subject area?
+
+You also need to determine how often people will visit your site. Is it a one time visit? How often is stock update or service changed?
+
+One helpful tool to organize information is a **site map**. To help decide what information goes where, you can use **card sorting**: placing pieces of info on seperate cards and organizing related information into groups. Remember to focus on the goals of your potential visitors (example **site map pg 462**)
+
+**wireframes** a simple sketch of the key infomration that needs to go on each page of a site. It can help to show clients the wireframe of content before showing them the design to ensure the site has all the needed functionality.
+
+Things to remember to get your message across:
+**organize** and **prioritize**
+
+**organize** group together related blocks and chunks. By presenting certain types of information in a similar visual style, users will learn to associate style and content.
+
+**prioritize** by making parts of a page distinct, you can draw attention to it. **Visual hierarchy** helps users focus on key messages.
+
+**visual hierarchy** elements of visual hierarchy include:
+
+Size: larger elements grab attention first.
+
+Color: Foreground and background color can draw attention to key messages. Think highlighted text.
+
+Style: An element with a different style applied will make it stand out.
+
+Visual hierarchy is acheived through **visual contrast** between items. Images create high visual contrast.
+
+Different types of grouping:
+
+**proximity**: items placed closer together are percieved as more related.
+
+**closure**: When faced with complicated arrangments, we often look for recognisable patterns or forms.
+A real or imaginary box can be formed around elemtns due to proximity and alignment.
+
+**continuence**: Elements taking place in a line or curve are perceived as related.
+
+**white space** leaving space between items helps disassociate items.
+
+**color**: background color behind items emphasizes connection.
+
+**borders**: a border draws a line between an element an it's neighbors.
+
+We naturally observe similarities in design, even if they aren't there. To help we need
+
+**consistency**: having read one element, it's easy to infer meanings on other elements if styling is consistent.
+
+**headings**: giving each chunk of information a heading allows the user to see if content is relevant.
+
+Designing Navigation
+
+Navigation needs to be:
+- Concise: easy to read, limited options.
+- Clear: link content is predictable.
+- Selective: primary navigation should only reflect content of the site. Logins and legal belong elsewhere.
+- Context: good navigation provides context.
+- Interactive: links should change on hover and click, it should be visually distinct.
+- Consistent: Secondary navigation may change, primary navigation should be the same.
+
+Design is about good communication.

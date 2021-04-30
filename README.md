@@ -11,7 +11,7 @@
         - [x] HTML Chapter 1: "Structure" (pp. 12-39)
         - [x] HTML Chapter 8: "Extra Markup" (pp. 176-199)
         - [x] HTML Chapter 17: "HTML5 Layout" (pp. 428-451)
-        - [ ] HTML Chapter 18: "Process & Design" (pp. 452-475)
+        - [x] HTML Chapter 18: "Process & Design" (pp. 452-475)
     - Javascript
         - [ ] Introduction
         - [ ] JS Chapter 1: "The ABC of Programming" (pp. 11-52)
