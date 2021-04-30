@@ -94,9 +94,13 @@ Pre-defined values of **http-equiv**
 **expires format**: content="Fri, 04, Apr 2014 23:59:59 GMT"
 
 Escape Characters (full list on pg194)
+
 \<: &lt: &#60
+
 \>: &gt: &#62
+
 \&: &amp: &#38
+
 \": &quot: &#34
 
 DOCTYPES tell browser which version of HTML you are using.
@@ -112,3 +116,38 @@ The \<div> and \<span> elements allow you to group block-level and inline elemen
 The \<meta> tag allows  you to supply all kinds of informatino about your web page.
 
 Escape charactes are used to include special characters in  your pages such as <, >, and copyright.
+
+## Chapter 17
+
+HTML5 (just HTML now, it's the only one and there won't be more) usese a variety of different named elements rather than divs.
+These new elemens make the code much easier to read and also allow screen readers and other techonologies to better scan a web page.
+
+\<header> and \<footer> are common elements. They can be used to denote the header and footer of an entire page.
+Or they can be used inside of another element, like the \<article> element to denote the header and footer of that particular element.
+For example, in a blog each post is it's own section, and each will have it's own header/footer.
+
+\<nav> element is used to contain major navigational blocks. Think links at the bottom of page like "Contact, FAQ, Products, Pricing" etc.
+
+\<article> This is an element that acts as a container for standalone content which is potentially syndicated. It's the meat.
+If you click on a NYT article, the article that you read would be housed inside of the article element.
+All other parts of the page, ads, links, etc are housed somewhere else.
+
+\<aside> can have multiple functions. If nested inside an \<article> it likely acts as supplemental material (ie glosseries).
+When outside of an \<article> it contains linkto other sections of the site, a list of recent posts, a search box, or recent tweets by the other.
+
+\<section> is used to keep related content together. It could have various nested \<article> elements inside of it.
+It should not be used as a wraper for the entire page, that job is still best left to a \<div>.
+
+\<hgroup> is used to group heading together. The usefullness of this can be debated.
+
+\<figure> element should contain content referenced in \<article>, however \<article> should still make sense even if the figure is absent.
+It could include images, videos, graphs, diagrams, code samples etc.
+
+\<div> to be used when there is no suitable styling element. It's a sort of miscellaneous tag.
+
+The \<a> element can wrap around a block, turning an entire block into a link.
+
+TO make HTML5 elements work in Internet Explorer 8(and other older version of IE), extra JavaScript is needed, which is available free from Google.
+
+## Chapter 18
+
