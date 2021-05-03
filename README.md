@@ -13,9 +13,8 @@
         - [x] HTML Chapter 17: "HTML5 Layout" (pp. 428-451)
         - [x] HTML Chapter 18: "Process & Design" (pp. 452-475)
     - Javascript
-        - [ ] Introduction
+        - [x] Introduction
         - [ ] JS Chapter 1: "The ABC of Programming" (pp. 11-52)
-    [**Notes**](reading-notes/class-01.md)
 2. ***HTML Text, CSS Introduction, & Basic Javascript***
 3. ***HTML Lists, CSS Boxes, JS Control Flow***
 4. ***HTML Links, CSS Layout, JS Functions***

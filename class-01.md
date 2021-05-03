@@ -1,4 +1,4 @@
-## Introduction - Chapter 1
+## Introduction - Chapter 1, HTML
 
 DNS: Domain Name System
 ISP: Internet Service Provier
@@ -35,7 +35,7 @@ Attributes require a name and a value.
 
 To learn HTML you need to know what tags are available for use, what they do, and where they can go.
 
-## Chapter 8
+## Chapter 8, HTML
 
 The DOCTYPE is no just HTML, post HTML5.
 
@@ -117,7 +117,7 @@ The \<meta> tag allows  you to supply all kinds of informatino about your web pa
 
 Escape charactes are used to include special characters in  your pages such as <, >, and copyright.
 
-## Chapter 17
+## Chapter 17, HTML
 
 HTML5 (just HTML now, it's the only one and there won't be more) usese a variety of different named elements rather than divs.
 These new elemens make the code much easier to read and also allow screen readers and other techonologies to better scan a web page.
@@ -149,7 +149,7 @@ The \<a> element can wrap around a block, turning an entire block into a link.
 
 TO make HTML5 elements work in Internet Explorer 8(and other older version of IE), extra JavaScript is needed, which is available free from Google.
 
-## Chapter 18
+## Chapter 18, HTML
 
 To help figure out who your target audience is, invent fictional characters who might visit your site.
 Thinking about what they get ouf of it will influence content and design decisions.
@@ -215,3 +215,59 @@ Navigation needs to be:
 - Consistent: Secondary navigation may change, primary navigation should be the same.
 
 Design is about good communication.
+
+## Chapter 1a, Javascript
+
+Coding involves **vocabulary** and **syntax**. There are words for a specific language that a computer will understand, and rules for how those words are used and ordered.
+
+**programmatic** computers "think" programmatically. That is they follow instructions one after another.
+
+A script is a series of insturctions that the computer can follow in order to acheive a goal.
+
+Each time a script runs, it might only use a sebset of all the insturctions.
+
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
+
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task
+(a flowchart can help).
+
+## 1b, Javascript
+
+**Objects** are things. They can be meta or simple.
+
+Each object will have it's own **properties**, **events**, and **methods**.
+
+**properties** are the characteristics of an object. Each property has a **name** and **value**, each name and value pair tell you something about the object.
+
+**SEE pg 29** for object metaphor: cars/hotels.
+
+**events** moments when a script interjects. Like clicking, or after a certain amount of time has passed, or hovering a cursor.
+
+**methods** Tell you something about the objects or change the value of one or more of hte objects properties.
+When you use a method, you don't always need to know how it works, but how to ask the question and interpret the answer given.
+
+Computers use data to create models of things in the real world.
+
+Web browsers are programs built using objects.
+
+Brwosers receives an HTML page.
+It creates a model of the page and stores it in memory.
+It shows the page on screen using a rendering engine.
+
+Computers create models of the world using data.
+
+The models use objects to represent physical things. Objecsts can have: properties that tell us about the object; methods that peform tasks using the properties of that object; events which are triggered when a user interacts with the computer.
+
+## 1c, Javascript
+
+Programmers can write code to say "When blank-event occurs, run this code.
+
+Web browsers use HTML markup to create a model of the web page. Each element creates its own node (sort of like an object).
+
+To make web page interactive, you write code that uses browser's model of the web page.
+
+It is best to keep JavaScript code in its own Javascript file. Javascript files are text files, but they have the .js extension.
+
+The HTML script element is used in HTML pages to tell the browser to load the JavaScript file(rather like the link element can be used to load a CSS file).
+
+If you view the source code of a page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page the browser created.
