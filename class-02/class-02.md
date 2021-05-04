@@ -92,3 +92,28 @@ p.note { } only targets \<p> elements of "note" class.
 
 Some browsers have odd quirks when it comes to CSS displays. However, using debugging tools can help spot them out.
 
+## Chapter 2, JavaScript
+
+**Variables** are addresses. They are you telling your computer to remember something.
+
+Variables are declared with **let** or **const**, var is outdated.
+
+**numeric data type**: 0.75
+
+**string data type**: "Hi!"
+
+**boolean data type**: true or false.
+
+**escaping** can be done by using backslash. This allows you to use quotes inside a string. You can also use backticks.
+
+Variables can hold any data type, number, string, or boolean.
+
+**Arrays** are lists or set of values related to each other. They are indexed.
+
+Arrays begin with an index of zero.
+
+**Expressions** evaluate into a single value.
+
+## Chapter 4, JavaScript
+
+**Logical operators** && and || or ! not

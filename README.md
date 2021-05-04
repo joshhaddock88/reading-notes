@@ -21,7 +21,7 @@
         - [x] Chapter 2: "Text" (pp.40-61)
         - [x] Chapter 10: "Introducing CSS" (pp.226-245)
     - JavaScript
-        - [ ] Chapter 2: "Basic JavaScript Instructions" (pp53-84)
+        - [x] Chapter 2: "Basic JavaScript Instructions" (pp53-84)
         - [ ] Chapter 4: "Decisions and Loops" to switch statements (pp.145-162)
 3. ***HTML Lists, CSS Boxes, JS Control Flow***
 4. ***HTML Links, CSS Layout, JS Functions***
