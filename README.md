@@ -12,10 +12,17 @@
         - [x] HTML Chapter 8: "Extra Markup" (pp. 176-199)
         - [x] HTML Chapter 17: "HTML5 Layout" (pp. 428-451)
         - [x] HTML Chapter 18: "Process & Design" (pp. 452-475)
-    - Javascript
+    - JavaScript
         - [x] Introduction
         - [x] JS Chapter 1: "The ABC of Programming" (pp. 11-52)
 2. ***HTML Text, CSS Introduction, & Basic Javascript***
+
+    - HTML
+        - [x] Chapter 2: "Text" (pp.40-61)
+        - [x] Chapter 10: "Introducing CSS" (pp.226-245)
+    - JavaScript
+        - [ ] Chapter 2: "Basic JavaScript Instructions" (pp53-84)
+        - [ ] Chapter 4: "Decisions and Loops" to switch statements (pp.145-162)
 3. ***HTML Lists, CSS Boxes, JS Control Flow***
 4. ***HTML Links, CSS Layout, JS Functions***
 5. ***HTML Images; CSS Color & Text***
