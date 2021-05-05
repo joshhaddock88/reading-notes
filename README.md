@@ -26,11 +26,11 @@
 3. ***HTML Lists, CSS Boxes, JS Control Flow***
 
     - HTML
-        - [ ] Chapter 3: "Lists"(pp.62-73)
-        - [ ] Chapter 13: "Boxes"(pp.300-329)
+        - [x] Chapter 3: "Lists"(pp.62-73)
+        - [x] Chapter 13: "Boxes"(pp.300-329)
     - JavaScript
-        - [ ] Chapter 2: "Basic JavaScript Instructions"(pp.s70-73)
-        - [ ] Chapter 4: "Decisions and Lopps" (pp.162-182)
+        - [x] Chapter 2: "Basic JavaScript Instructions"(pp.s70-73)
+        - [x] Chapter 4: "Decisions and Lopps" (pp.162-182)
 4. ***HTML Links, CSS Layout, JS Functions***
 5. ***HTML Images; CSS Color & Text***
 6. ***JS Object Literals; The DOM***
