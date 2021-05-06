@@ -32,6 +32,13 @@
         - [x] Chapter 2: "Basic JavaScript Instructions"(pp.s70-73)
         - [x] Chapter 4: "Decisions and Lopps" (pp.162-182)
 4. ***HTML Links, CSS Layout, JS Functions***
+
+    - HTML
+        - [x] Chapter 4: "Links"(pp.74-93)
+        - [x] Chapter 15: "Layout"(pp.358-404)
+    - JavaScript
+        - [ ] Chapter 3: "Functions, Methods, and Objects" (pp.86-99)
+        - [ ] Article: "6 Reasons for Pair Programming"
 5. ***HTML Images; CSS Color & Text***
 6. ***JS Object Literals; The DOM***
 7. ***HTML Tables; JS Constructor Functions***
