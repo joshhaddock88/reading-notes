@@ -37,10 +37,21 @@
         - [x] Chapter 4: "Links"(pp.74-93)
         - [x] Chapter 15: "Layout"(pp.358-404)
     - JavaScript
-        - [ ] Chapter 3: "Functions, Methods, and Objects" (pp.86-99)
-        - [ ] Article: "6 Reasons for Pair Programming"
+        - [x] Chapter 3: "Functions, Methods, and Objects" (pp.86-99)
+        - [x] Article: "6 Reasons for Pair Programming"
 5. ***HTML Images; CSS Color & Text***
+    - HTML
+        - [x] Chapter 5: "Images"(pp.94-125)
+        - [x] Chapter 11: "Color"(pp.246-263)
+        - [x] Chapter 12: "Text"(264-299)
+    - JavaScript
+        - [x] Blog Post "JPEG vs PNG vs GIF"
 6. ***JS Object Literals; The DOM***
+    - Article
+        - [x] "Understanding the Problem Domain..."
+    - JavaScript
+        - [x] Chapter 3: "Object Literals"(pp.100-105)
+        - [x] Chapter 5: "Document Object Model"(pp.183-242)
 7. ***HTML Tables; JS Constructor Functions***
 8. ***More CSS Layout***
 9. ***Forms and Events***
