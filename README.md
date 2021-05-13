@@ -53,7 +53,13 @@
         - [x] Chapter 3: "Object Literals"(pp.100-105)
         - [x] Chapter 5: "Document Object Model"(pp.183-242)
 7. ***HTML Tables; JS Constructor Functions***
+    - HTML
+        - [x] Chapter 6: "Tables" (pp.126-145)
+    - JavaScript
+        - [x] Chapter 3: "Functions, Methods, Objects" (pp. 106-144)
 8. ***More CSS Layout***
+    - HTML & CSS
+        - [ ] Chapter 15: "Layout"(pp.358-404)
 9. ***Forms and Events***
 10. ***JS Debugging***
 11. ***Assorted Topics***
