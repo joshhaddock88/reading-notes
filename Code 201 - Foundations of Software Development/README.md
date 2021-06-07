@@ -59,9 +59,16 @@
         - [x] Chapter 3: "Functions, Methods, Objects" (pp. 106-144)
 8. ***More CSS Layout***
     - HTML & CSS
-        - [ ] Chapter 15: "Layout"(pp.358-404)
+        - [x] Chapter 15: "Layout"(pp.358-404)
 9. ***Forms and Events***
+    - HTML CSS
+        - [x] Chapter 7: "Forms"(pp.144-175)
+        - [x] Chapter 14: "Lists, Tables & Forms"(pp.330-357)
+    - JavaScript
+        - [x] Chapter 6: "Events"(pp.243-292)
 10. ***JS Debugging***
+    - JavaScript
+        - [x] Chapter: "Debugging"(pp.)
 11. ***Assorted Topics***
 12. ***Docs for the HTML \<canvas\> Element & Chart.js***
 13. ***Local Storage***

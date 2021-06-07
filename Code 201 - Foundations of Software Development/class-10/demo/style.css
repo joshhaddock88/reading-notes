@@ -1,0 +1,66 @@
+body {
+  font-family: sans-serif;
+}
+
+header {
+  background-color: rgb(52, 52, 52);
+  width: 100%;
+  color: gray;
+}
+
+nav {
+  color: white;
+  margin-left: 20px;
+}
+
+nav a {
+  margin-right: 50px;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  width: 960px;
+  margin: 0 auto;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  width: 960px;
+  margin: 30px auto;
+}
+
+.three-column {
+  display: flex;
+  margin-top: 30px;
+  gap: 30px;
+}
+
+.two-column{
+  display: flex;
+  margin-top: 30px;
+  gap: 30px;
+  height: 400px;
+}
+
+section {
+  height: 400px;
+}
+
+p {
+  height: 340px;
+  overflow-y: scroll;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-size: larger;
+  padding: 8px 20px;
+  transition: 350ms;
+}
+
+button:hover {
+  background-color: gray;
+}
