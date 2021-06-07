@@ -74,3 +74,6 @@
 13. ***Local Storage***
 14. ***a: CSS Transorms, Transitions, and Animations***
 14. ***b: What Google learned About Teams***
+
+## Code 301 Reading Notes
+### Table of Contents
