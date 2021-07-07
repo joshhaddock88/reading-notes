@@ -28,6 +28,8 @@ class HouseholdItem extends React.Component {
     this.setState({
       numberRemaining: this.state.numberRemaining + 1
     });
+    // we bought something! tell App.js to remove some money
+    this.props.handleBuyItem(this.props.cost);
   }
 
   decreaseNumberRemaining= () => {
@@ -48,3 +50,5 @@ class HouseholdItem extends React.Component {
 }
 
 export default HouseholdItem;
+
+// in lab today we'll define a function, pass it to main, and then pass it again from main into horned beasts. At which point you'll have to use "this.props"
