@@ -1,5 +1,7 @@
 # Quiz answers
 
+## Prework Quiz
+
 1. C# is primarily a **type-safe** language, meaning it prevents a string from interacting with an integer.
 
 2. Static typic means enforcing type sfaety at **compile time**.
@@ -70,3 +72,71 @@
 22. "using directive" **imports namespaces**
 
 23. Code outputs 3.
+
+## Quiz 1
+
+1. A try block is required to be followed by either a catch or a finally black? **true**
+
+2. 
+
+## Quiz 2
+
+1. What is the purpose of an interface?
+
+    To group together behaviors that can be attached to a class in a contract like implementation.
+
+2. What is the difference between an interface and an abstract method?
+
+    An abstract method gets overridden, while an interface getrs implements with no override keyword present.
+
+3. What about the difference between an abstract class and an interface?
+
+    An interface is implemented and is a contract against the class it is being attached to. An Abstract Class is a template that contains both required and optional behaviors a class can contain.
+
+4. What is the difference between a class and an object?
+
+    An object is an instance of a class.
+
+5. What symbol do you use to show inheritance?
+
+    : (colon)
+
+6. An interface tells us what a class "**has**", while inheritance tells us what a class "**can do**". **WRONG**
+
+7. Write the LINQ Query(not method) that retrieves all of the numbers in the data source named my Numbers that are larger than 20. Name your variable in your query number.
+**WRONG**
+    var value = from number in myNumbers
+                where number > 20
+                select number;
+
+8. What is the name of the method that is required when implementing IEnumerable?
+
+    GetEnumerator
+
+9. What are the four principles of OOP?
+
+    Encapsulation, Inheritance, Polymorphism, Abstraction
+
+10. Under the hood, a foreach loop is just a(n) **WRONG**
+
+    method call
+
+11. Create a class signature(excluding the curly braces) for Oober that is derived from class Goober, as well as implementing the interface named IDance. No access modifier is required, please provide spaced between each word/symbol
+
+    class Oober : Goober, IDance
+
+12. What happens if you do not have a "base case" in a recursive solution?
+
+    StackOverflowException
+
+13. What is the Big O time of a full traversal of a Linked List?
+
+    O(n)
+
+14. What is the difference between overloading a method and overriding a method?
+
+    Overloading: More than one methdo of the same name exists within a class.
+
+    Overriding: A methdo of the same name etc is inherited from the parent.
+
+15. 
