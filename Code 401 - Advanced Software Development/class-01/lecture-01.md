@@ -2,25 +2,48 @@
 
 ## Lecture Notes
 
+What do we know about C#?
+
+* LINQ is magic.
+* Big O (measure operational complexity)
+* Type safe (every variable has a type that you define. Every method returns a type).
+* In JavaScript does a read, syntax check, compile, and run.
+* A compile, in C#, produces an exe. If it gets to exe it has no physical bugs.
+* Public static void stuff.
+* Method | Class. Class system in C#.
+
+```csharp
+static void Main(string[] args)
+{
+    console.WriteLine("Hello World!");
+}
+```
+
+Static = NO INSTANCE. IE it is entirely abstraction.
+Void = The return type. It has no return.
+Main = method
+string[] args = the argument and it's data type.
+(public would equal the scope)
+
 ### Problem Domain
 
-- F() that reverses array
+* F() that reverses array
 
-- Input <- Array [1,2,4,9]
+* Input <- Array [1,2,4,9]
 
-- output -> Array [9,4,2,1]
+* output -> Array [9,4,2,1]
 
-- In place? Yes.
+* In place? Yes.
 
 ### Algorithm
 
-- Identiy start & end
+* Identiy start & end
 
-- while start < end
+* while start < end
 
-    - Swap
+    * Swap
 
-    - arr/start/end
+    * arr/start/end
 
 ### Pseudo
 
